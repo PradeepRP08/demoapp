@@ -13,3 +13,4 @@ public class App
 }
 /* adding command in java */
 public new {}
+public class new{ }
