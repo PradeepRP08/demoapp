@@ -9,8 +9,8 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
+        System.out.println( "Hello World!" );
+
+
     }
 }
-/* adding command in java */
-public new {}
-public class new{ }
