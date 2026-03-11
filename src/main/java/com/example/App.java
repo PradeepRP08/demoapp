@@ -17,7 +17,6 @@ public class App
         /*new cmd*/
         /*1234*/
          /*new jwnkins test*/
-        /*new jwnkins test*/
     }
 }
 
